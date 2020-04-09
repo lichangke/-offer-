@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05替换空格", "05替换�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06 从尾到头打印链表", "06 从尾到头打印链表\06 从尾到头打印链表.vcxproj", "{2EE2B46D-C0F2-4FB2-BD1C-6CE08387DA19}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07 重建二叉树", "07 重建二叉树\07 重建二叉树.vcxproj", "{0314E8AC-425C-437D-96F5-EBD2FB78B59D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{2EE2B46D-C0F2-4FB2-BD1C-6CE08387DA19}.Release|x64.Build.0 = Release|x64
 		{2EE2B46D-C0F2-4FB2-BD1C-6CE08387DA19}.Release|x86.ActiveCfg = Release|Win32
 		{2EE2B46D-C0F2-4FB2-BD1C-6CE08387DA19}.Release|x86.Build.0 = Release|Win32
+		{0314E8AC-425C-437D-96F5-EBD2FB78B59D}.Debug|x64.ActiveCfg = Debug|x64
+		{0314E8AC-425C-437D-96F5-EBD2FB78B59D}.Debug|x64.Build.0 = Debug|x64
+		{0314E8AC-425C-437D-96F5-EBD2FB78B59D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0314E8AC-425C-437D-96F5-EBD2FB78B59D}.Debug|x86.Build.0 = Debug|Win32
+		{0314E8AC-425C-437D-96F5-EBD2FB78B59D}.Release|x64.ActiveCfg = Release|x64
+		{0314E8AC-425C-437D-96F5-EBD2FB78B59D}.Release|x64.Build.0 = Release|x64
+		{0314E8AC-425C-437D-96F5-EBD2FB78B59D}.Release|x86.ActiveCfg = Release|Win32
+		{0314E8AC-425C-437D-96F5-EBD2FB78B59D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
